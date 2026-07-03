@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29622790/README.md)
 ![Claude SEO cover: a Claude Code command palette with /seo audit, schema, geo, content, and backlinks commands over a dark CRT panel](assets/cover.svg)
 
 # Claude SEO: SEO Skill for Claude Code
