@@ -1,0 +1,7 @@
+{
+  "name": "seo",
+  "version": "0.1.0",
+  "description": "SEO toolkit for Claude Code: full-site audits via parallel sub-agents, deep single-page analysis, schema markup audit/generation, AI-search (GEO) optimization, and industry-templated sitemap generation.",
+  "keywords": ["seo", "schema.org", "structured-data", "geo", "generative-engine-optimization", "sitemap", "site-audit"],
+  "license": "MIT"
+}
